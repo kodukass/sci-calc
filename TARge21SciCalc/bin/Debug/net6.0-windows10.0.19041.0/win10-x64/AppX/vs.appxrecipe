@@ -29,13 +29,13 @@
     <AppXManifest Include="C:\Users\koduk\OneDrive\Dokumendid\GitHub\sci-calc\TARge21SciCalc\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-03-09T12:01:17.460</Modified>
+      <Modified>2023-03-09T13:41:22.715</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\koduk\OneDrive\Dokumendid\GitHub\sci-calc\TARge21SciCalc\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-03-09T11:58:07.006</Modified>
+      <Modified>2023-03-09T13:41:22.278</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koduk\OneDrive\Dokumendid\GitHub\sci-calc\TARge21SciCalc\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\TARge21SciCalc.runtimeconfig.json">
       <PackagePath>TARge21SciCalc.runtimeconfig.json</PackagePath>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koduk\OneDrive\Dokumendid\GitHub\sci-calc\TARge21SciCalc\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\TARge21SciCalc.dll">
       <PackagePath>TARge21SciCalc.dll</PackagePath>
-      <Modified>2023-03-09T11:58:05.187</Modified>
+      <Modified>2023-03-09T13:41:20.943</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koduk\OneDrive\Dokumendid\GitHub\sci-calc\TARge21SciCalc\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>TARge21SciCalc.exe</PackagePath>
-      <Modified>2023-03-09T11:58:05.222</Modified>
+      <Modified>2023-03-09T13:41:20.968</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koduk\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.14\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1063,7 +1063,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koduk\OneDrive\Dokumendid\GitHub\sci-calc\TARge21SciCalc\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\TARge21SciCalc.deps.json">
       <PackagePath>TARge21SciCalc.deps.json</PackagePath>
-      <Modified>2023-03-09T12:01:17.304</Modified>
+      <Modified>2023-03-09T13:41:22.521</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koduk\.nuget\packages\microsoft.maui.controls.ref.win\6.0.552\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -1100,6 +1100,14 @@
     <AppxPackagedFile Include="C:\Users\koduk\OneDrive\Dokumendid\GitHub\sci-calc\TARge21SciCalc\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
       <Modified>2023-03-09T11:58:03.850</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\koduk\OneDrive\Dokumendid\GitHub\sci-calc\TARge21SciCalc\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\Cairo-ExtraLight.ttf">
+      <PackagePath>Cairo-ExtraLight.ttf</PackagePath>
+      <Modified>2017-11-25T05:31:05.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\koduk\OneDrive\Dokumendid\GitHub\sci-calc\TARge21SciCalc\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\Cairo-Light.ttf">
+      <PackagePath>Cairo-Light.ttf</PackagePath>
+      <Modified>2017-11-25T05:31:05.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koduk\OneDrive\Dokumendid\GitHub\sci-calc\TARge21SciCalc\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>

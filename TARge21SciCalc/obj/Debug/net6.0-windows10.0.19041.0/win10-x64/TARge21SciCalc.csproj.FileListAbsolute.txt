@@ -358,3 +358,5 @@ C:\Users\koduk\OneDrive\Dokumendid\GitHub\sci-calc\TARge21SciCalc\obj\Debug\net6
 C:\Users\koduk\OneDrive\Dokumendid\GitHub\sci-calc\TARge21SciCalc\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\koduk\OneDrive\Dokumendid\GitHub\sci-calc\TARge21SciCalc\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\koduk\OneDrive\Dokumendid\GitHub\sci-calc\TARge21SciCalc\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\koduk\OneDrive\Dokumendid\GitHub\sci-calc\TARge21SciCalc\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\Cairo-ExtraLight.ttf
+C:\Users\koduk\OneDrive\Dokumendid\GitHub\sci-calc\TARge21SciCalc\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\Cairo-Light.ttf

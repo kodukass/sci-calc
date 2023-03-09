@@ -2,9 +2,9 @@
 using Microsoft.UI;
 using Microsoft.UI.Windowing;
 using Windows.Graphics;
-#endif
-
 using Microsoft.Maui;
+using TARge21SciCalc.Views;
+#endif
 
 namespace TARge21SciCalc;
 
@@ -20,8 +20,8 @@ public partial class App : Application
 #if WINDOWS
 		Microsoft.Maui.Handlers.WindowHandler.Mapper.AppendToMapping(nameof(IWindow), (handler, view) =>
 		{
-			var mauiWindow = Handler.VirtualView;
-			var nativeWindow = Handler.PlatformView;
+			var mauiWindow = handler.VirtualView;
+			var nativeWindow = handler.PlatformView;
 			nativeWindow.Activate();
 			IntPtr windowHandle = WinRT.Interop.WindowNative.GetWindowHandle(nativeWindow);
 			WindowId windowId = Microsoft.UI.Win32Interop.GetWindowIdFromWindow(windowHandle);
@@ -29,6 +29,6 @@ public partial class App : Application
 			appWindow.Resize(new SizeInt32(WindowWidth, WindowHeight));
 		});
 #endif
-		MainPage = new AppShell();
+		MainPage = new CalculatorPage();
 	}
 }
