@@ -29,7 +29,7 @@
     <AppXManifest Include="C:\Users\koduk\OneDrive\Dokumendid\GitHub\sci-calc\TARge21SciCalc\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-03-16T12:02:18.412</Modified>
+      <Modified>2023-03-16T13:51:09.624</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koduk\OneDrive\Dokumendid\GitHub\sci-calc\TARge21SciCalc\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\TARge21SciCalc.dll">
       <PackagePath>TARge21SciCalc.dll</PackagePath>
-      <Modified>2023-03-16T12:02:16.877</Modified>
+      <Modified>2023-03-16T13:51:07.933</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koduk\OneDrive\Dokumendid\GitHub\sci-calc\TARge21SciCalc\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>TARge21SciCalc.exe</PackagePath>
-      <Modified>2023-03-16T12:02:16.940</Modified>
+      <Modified>2023-03-16T13:51:07.992</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koduk\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.14\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1067,7 +1067,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koduk\OneDrive\Dokumendid\GitHub\sci-calc\TARge21SciCalc\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\TARge21SciCalc.deps.json">
       <PackagePath>TARge21SciCalc.deps.json</PackagePath>
-      <Modified>2023-03-16T12:02:18.129</Modified>
+      <Modified>2023-03-16T13:51:09.318</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koduk\.nuget\packages\microsoft.maui.controls.ref.win\6.0.552\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
