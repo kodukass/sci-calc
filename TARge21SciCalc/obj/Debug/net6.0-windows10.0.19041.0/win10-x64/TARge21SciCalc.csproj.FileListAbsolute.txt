@@ -361,3 +361,6 @@ C:\Users\koduk\OneDrive\Dokumendid\GitHub\sci-calc\TARge21SciCalc\obj\Debug\net6
 C:\Users\koduk\OneDrive\Dokumendid\GitHub\sci-calc\TARge21SciCalc\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\Cairo-ExtraLight.ttf
 C:\Users\koduk\OneDrive\Dokumendid\GitHub\sci-calc\TARge21SciCalc\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\Cairo-Light.ttf
 C:\Users\koduk\OneDrive\Dokumendid\GitHub\sci-calc\TARge21SciCalc\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Mvvm.dll
+C:\Users\koduk\OneDrive\Dokumendid\GitHub\sci-calc\TARge21SciCalc\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Antlr3.Runtime.dll
+C:\Users\koduk\OneDrive\Dokumendid\GitHub\sci-calc\TARge21SciCalc\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\NCalc.dll
+C:\Users\koduk\OneDrive\Dokumendid\GitHub\sci-calc\TARge21SciCalc\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\clrcompression.dll

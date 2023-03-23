@@ -83,7 +83,7 @@
             Grid.Column="0"
             ZIndex="1"
             Margin="6,10,6,4"
-            Style="{StaticResource ScientificOperatorButtonStyle}"
+            Style="{StaticResource ScientificButtonStyle}"
             Text="MEAN" />
 
         <Button
@@ -91,7 +91,7 @@
             Grid.Column="1"
             ZIndex="1"
             Margin="6,10,6,4"
-            Style="{StaticResource ScientificOperatorButtonStyle}"
+            Style="{StaticResource ScientificButtonStyle}"
             Text="MOD" />
 
         <Button
@@ -99,7 +99,7 @@
             Grid.Column="2"
             ZIndex="1"
             Margin="6,10,6,4"
-            Style="{StaticResource ScientificOperatorButtonStyle}"
+            Style="{StaticResource ScientificButtonStyle}"
             Text="STD" />
 
         <Button
@@ -107,7 +107,7 @@
             Grid.Column="3"
             ZIndex="1"
             Margin="6,10,6,4"
-            Style="{StaticResource ScientificOperatorButtonStyle}"
+            Style="{StaticResource ScientificButtonStyle}"
             Text="VAR" />
 
         <Button
@@ -115,7 +115,7 @@
             Grid.Column="4"
             ZIndex="1"
             Margin="6,10,6,4"
-            Style="{StaticResource ScientificOperatorButtonStyle}"
+            Style="{StaticResource ScientificButtonStyle}"
             Text="FACT" />
 
         <!--Row2-->
@@ -125,7 +125,7 @@
             Grid.Row="3"
             Grid.Column="0"
             ZIndex="1"            
-            Style="{StaticResource ScientificOperatorButtonStyle}"
+            Style="{StaticResource ScientificButtonStyle}"
             Text="SIN"
             Command="{Binding ScientificOperatorCommand}"
             CommandParameter="SIN" />
@@ -134,7 +134,7 @@
             Grid.Row="3"
             Grid.Column="1"
             ZIndex="1"
-            Style="{StaticResource ScientificOperatorButtonStyle}"
+            Style="{StaticResource ScientificButtonStyle}"
             Text="COS"
             Command="{Binding ScientificOperatorCommand}"
             CommandParameter="COS" />
@@ -143,7 +143,7 @@
             Grid.Row="3"
             Grid.Column="2"
             ZIndex="1"
-            Style="{StaticResource ScientificOperatorButtonStyle}"
+            Style="{StaticResource ScientificButtonStyle}"
             Text="TAN"
             Command="{Binding ScientificOperatorCommand}"
             CommandParameter="TAN" />
@@ -152,7 +152,7 @@
             Grid.Row="3"
             Grid.Column="3"
             ZIndex="1"
-            Style="{StaticResource ScientificOperatorButtonStyle}"
+            Style="{StaticResource ScientificButtonStyle}"
             Text="LOG"
             Command="{Binding ScientificOperatorCommand}"
             CommandParameter="LOG" />
@@ -161,7 +161,7 @@
             Grid.Row="3"
             Grid.Column="4"
             ZIndex="1"
-            Style="{StaticResource ScientificOperatorButtonStyle}"
+            Style="{StaticResource ScientificButtonStyle}"
             Text="EXP"
             Command="{Binding ScientificOperatorCommand}"
             CommandParameter="EXP" />
@@ -171,7 +171,7 @@
             Grid.Row="4"
             Grid.Column="0"
             ZIndex="1"
-            Style="{StaticResource ScientificOperatorButtonStyle}"
+            Style="{StaticResource ScientificButtonStyle}"
             Text="ASIN"
             Command="{Binding ScientificOperatorCommand}"
             CommandParameter="ASIN" />
@@ -180,7 +180,7 @@
             Grid.Row="4"
             Grid.Column="1"
             ZIndex="1"
-            Style="{StaticResource ScientificOperatorButtonStyle}"
+            Style="{StaticResource ScientificButtonStyle}"
             Text="ACOS"
             Command="{Binding ScientificOperatorCommand}"
             CommandParameter="ACOS" />
@@ -189,7 +189,7 @@
             Grid.Row="4"
             Grid.Column="2"
             ZIndex="1"
-            Style="{StaticResource ScientificOperatorButtonStyle}"
+            Style="{StaticResource ScientificButtonStyle}"
             Text="ATAN"
             Command="{Binding ScientificOperatorCommand}"
             CommandParameter="ATAN" />
@@ -198,7 +198,7 @@
             Grid.Row="4"
             Grid.Column="3"
             ZIndex="1"
-            Style="{StaticResource ScientificOperatorButtonStyle}"
+            Style="{StaticResource ScientificButtonStyle}"
             Text="LOG10"
             Command="{Binding ScientificOperatorCommand}"
             CommandParameter="LOG10" />
@@ -207,7 +207,7 @@
             Grid.Row="4"
             Grid.Column="4"
             ZIndex="1"
-            Style="{StaticResource ScientificOperatorButtonStyle}"
+            Style="{StaticResource ScientificButtonStyle}"
             Text="POW"
             Command="{Binding ScientificOperatorCommand}"
             CommandParameter="POW" />
@@ -218,7 +218,7 @@
             Grid.Column="0"
             ZIndex="1"
             Margin="6,4,6,10"
-            Style="{StaticResource ScientificOperatorButtonStyle}"
+            Style="{StaticResource ScientificButtonStyle}"
             Text="SQRT"
             Command="{Binding ScientificOperatorCommand}"
             CommandParameter="SQRT" />
@@ -228,7 +228,7 @@
             Grid.Column="1"
             ZIndex="1"
             Margin="6,4,6,10"
-            Style="{StaticResource ScientificOperatorButtonStyle}"
+            Style="{StaticResource ScientificButtonStyle}"
             Text="ABS"
             Command="{Binding ScientificOperatorCommand}"
             CommandParameter="ABS" />
@@ -238,7 +238,7 @@
             Grid.Column="2"
             ZIndex="1"
             Margin="6,4,6,10"
-            Style="{StaticResource ScientificOperatorButtonStyle}"
+            Style="{StaticResource ScientificButtonStyle}"
             Text=","
             Command="{Binding RegionOperatorCommand}"
             CommandParameter="," />
@@ -248,7 +248,7 @@
             Grid.Column="3"
             ZIndex="1"
             Margin="6,4,6,10"
-            Style="{StaticResource ScientificOperatorButtonStyle}"
+            Style="{StaticResource ScientificButtonStyle}"
             Text="("
             Command="{Binding RegionOperatorCommand}"
             CommandParameter="(" />
@@ -258,7 +258,7 @@
             Grid.Column="4"
             ZIndex="1"
             Margin="6,4,6,10"
-            Style="{StaticResource ScientificOperatorButtonStyle}"
+            Style="{StaticResource ScientificButtonStyle}"
             Text=")"
             Command="{Binding RegionOperatorCommand}"
             CommandParameter=")" />
@@ -268,8 +268,8 @@
         <Grid
             ColumnDefinitions="Auto, *"
             Grid.Row="6"
-            Grid.Column="0"
-            Grid.ColumnSpan="3">
+            Grid.Column="4"
+            Grid.ColumnSpan="1">
 
             <!--<Label
                 Text="="
@@ -383,8 +383,8 @@
                 CommandParameter="." />
 
             <Button
-                Grid.Row="4"
-                Grid.Column="3"
+                Grid.Row="1"
+                Grid.Column="4"
                 Margin="1,1,1,1"
                 Style="{StaticResource NumberButtonStyle}"
                 Text="⌫ "
@@ -396,13 +396,13 @@
 
         <Grid
             ColumnDefinitions="Auto, *"
-            Grid.Row="6"
-            Grid.Column="0"
+            Grid.Row="5"
+            Grid.Column="4"
             Grid.ColumnSpan="2">
 
             <Button
                 Grid.Row="1"
-                Grid.Column="0"
+                Grid.Column="3"
                 Margin="1,1,1,1"
                 Style="{StaticResource OperatorButtonStyle}"
                 Text="AC"
@@ -445,8 +445,8 @@
                 CommandParameter="-" />
 
             <Button
-                Grid.Row="4"
-                Grid.Column="0"
+                Grid.Row="3"
+                Grid.Column="4"
                 Margin="1,1,1,1"
                 Style="{StaticResource OperatorButtonStyle}"
                 Text="="

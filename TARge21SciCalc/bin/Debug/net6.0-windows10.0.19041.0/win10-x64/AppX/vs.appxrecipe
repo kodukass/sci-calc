@@ -29,25 +29,25 @@
     <AppXManifest Include="C:\Users\koduk\OneDrive\Dokumendid\GitHub\sci-calc\TARge21SciCalc\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-03-22T11:00:20.323</Modified>
+      <Modified>2023-03-23T11:16:29.016</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\koduk\OneDrive\Dokumendid\GitHub\sci-calc\TARge21SciCalc\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-03-16T11:59:33.491</Modified>
+      <Modified>2023-03-23T11:11:54.724</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koduk\OneDrive\Dokumendid\GitHub\sci-calc\TARge21SciCalc\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\TARge21SciCalc.runtimeconfig.json">
       <PackagePath>TARge21SciCalc.runtimeconfig.json</PackagePath>
-      <Modified>2023-03-16T11:59:33.210</Modified>
+      <Modified>2023-03-23T11:11:54.518</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koduk\OneDrive\Dokumendid\GitHub\sci-calc\TARge21SciCalc\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\TARge21SciCalc.dll">
       <PackagePath>TARge21SciCalc.dll</PackagePath>
-      <Modified>2023-03-22T11:00:18.370</Modified>
+      <Modified>2023-03-23T11:16:27.756</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koduk\OneDrive\Dokumendid\GitHub\sci-calc\TARge21SciCalc\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>TARge21SciCalc.exe</PackagePath>
-      <Modified>2023-03-22T11:00:18.431</Modified>
+      <Modified>2023-03-23T11:16:27.764</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koduk\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.14\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -965,6 +965,10 @@
       <PackagePath>WinRT.Runtime.dll</PackagePath>
       <Modified>2022-11-16T01:34:42.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\koduk\.nuget\packages\antlr3.runtime\3.5.1\lib\netstandard1.1\Antlr3.Runtime.dll">
+      <PackagePath>Antlr3.Runtime.dll</PackagePath>
+      <Modified>2016-12-18T13:55:30.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koduk\.nuget\packages\communitytoolkit.mvvm\8.1.0\lib\net6.0\CommunityToolkit.Mvvm.dll">
       <PackagePath>CommunityToolkit.Mvvm.dll</PackagePath>
       <Modified>2023-01-17T22:56:14.000</Modified>
@@ -1057,6 +1061,10 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
       <Modified>2022-09-07T21:54:34.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\koduk\.nuget\packages\ncalcsync\3.4.0\lib\net5.0\NCalc.dll">
+      <PackagePath>NCalc.dll</PackagePath>
+      <Modified>2022-05-30T15:53:46.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koduk\.nuget\packages\microsoft.graphics.win2d\1.0.3.1\runtimes\win10-x64\native\Microsoft.Graphics.Canvas.dll">
       <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>
       <Modified>2022-04-28T15:57:10.000</Modified>
@@ -1065,9 +1073,13 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2022-09-07T21:54:36.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\koduk\.nuget\packages\runtime.win7-x64.runtime.native.system.io.compression\4.0.1\runtimes\win7-x64\native\clrcompression.dll">
+      <PackagePath>clrcompression.dll</PackagePath>
+      <Modified>2016-06-13T21:46:18.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koduk\OneDrive\Dokumendid\GitHub\sci-calc\TARge21SciCalc\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\TARge21SciCalc.deps.json">
       <PackagePath>TARge21SciCalc.deps.json</PackagePath>
-      <Modified>2023-03-22T11:00:20.023</Modified>
+      <Modified>2023-03-23T11:16:28.856</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koduk\.nuget\packages\microsoft.maui.controls.ref.win\6.0.552\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
